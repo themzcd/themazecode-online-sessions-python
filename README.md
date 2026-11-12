@@ -1,6 +1,6 @@
-# The Maze Code — Online Python Sessions 🐍
+# The Maze Code — Online-Sessions-Python 🐍
 
-Welcome to the official repository for **The Maze Code** online Python sessions! 
+Welcome to the official repository for **The MazeCode** online Python sessions! 
 
 We are a dedicated group of university students learning, coding, and growing together through collaborative online study sessions. Using **Jupyter Notebooks** as our primary interactive environment, our goal is to bridge the gap between foundational programming concepts and real-world applications. 
 
