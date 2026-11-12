@@ -1,31 +1,11 @@
-> Online Python study sessions by university students learning together via Jupyter Notebooks. Starting from Object-Oriented Programming (OOP), building hands-on projects, and advancing toward Exploratory Data Analysis (EDA), Machine Learning (ML), and Deep Learning (DL).
-
----
-
 # The Maze Code — Online Python Sessions 🐍
 
 Welcome to the official repository for **The Maze Code** online Python sessions! 
 
 We are a dedicated group of university students learning, coding, and growing together through collaborative online study sessions. Using **Jupyter Notebooks** as our primary interactive environment, our goal is to bridge the gap between foundational programming concepts and real-world applications. 
 
-Our learning roadmap starts with mastering **Object-Oriented Programming (OOP)** in Python, building a wide variety of hands-on projects to solidify our skills, and progressively advancing into the exciting worlds of **Exploratory Data Analysis (EDA)**, **Machine Learning (ML)**, **Deep Learning (DL)**, and beyond.
+Our learning roadmap starts with mastering **Object-Oriented Programming (OOP)** in Python, building a wide variety of hands-on projects to solidify our skills, and progressively advancing into the exciting worlds of **AI Engineering and AI Research**.
 
-## 📂 What You Will Find Here
-
-To keep our collaborative work organized and easy to navigate as we progress through our curriculum, this repository is divided into two main directories:
-
-* **Session Notebooks:** Contains all the interactive `.ipynb` files from our live online sessions, complete with code demonstrations, markdown notes, syntax breakdowns, and practice exercises.
-* **Projects:** A growing collection of practical, hands-on projects built collaboratively to apply what we learn—ranging from OOP-based applications to data analysis and AI models.
-
-## 🗺️ Our Learning Roadmap
-
-Here is the path we are taking together:
-
-1. **Object-Oriented Programming (OOP):** Classes, objects, inheritance, polymorphism, encapsulation, and writing clean, modular Python code.
-2. **Hands-On Python Projects:** Applying core concepts to build functional scripts, tools, and mini-applications.
-3. **Exploratory Data Analysis (EDA):** Working with data manipulation and visualization libraries (such as NumPy, Pandas, Matplotlib, and Seaborn) to uncover insights from real datasets.
-4. **Machine Learning (ML):** Understanding supervised and unsupervised learning algorithms, feature engineering, and model evaluation.
-5. **Deep Learning (DL) & Beyond:** Exploring neural networks, modern AI frameworks, and specialized domains.
 
 ## 🚀 Getting Started
 
