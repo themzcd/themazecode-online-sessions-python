@@ -1,7 +1,3 @@
-# GitHub Repository Description
-
-*(Copy and paste this into the **Description** field on GitHub — 255/350 characters)*
-
 > Online Python study sessions by university students learning together via Jupyter Notebooks. Starting from Object-Oriented Programming (OOP), building hands-on projects, and advancing toward Exploratory Data Analysis (EDA), Machine Learning (ML), and Deep Learning (DL).
 
 ---
