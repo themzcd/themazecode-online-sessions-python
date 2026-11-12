@@ -34,12 +34,8 @@ If you are part of our study group or want to follow along with our notebooks lo
    ```
    *Once Jupyter opens in your browser, navigate to either the **Session Notebooks** or **Projects** folder to open and run the `.ipynb` files.*
 
-## 🤝 Collaboration & Contributions
-
-Because this is a shared space for university students learning together:
-* **Review & Practice:** Feel free to clone the notebooks, experiment with the code cells, and try different approaches.
-* **Ask Questions:** If you get stuck on a concept or spot a bug in a notebook, open an **Issue** or bring it up during our next live online session.
-* **Share Ideas:** Have a cool project idea for OOP, EDA, or ML? Let's build it together!
+## Because this is a shared space for university students learning together:
+Feel free to clone the notebooks, experiment with the code cells, and try different approaches.
 
 ---
 *Maintained by [themzcd](https://github.com/themzcd) & The Maze Code Study Group*
